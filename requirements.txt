@@ -1,0 +1,8 @@
+openai
+flask
+flask-cors
+python-dotenv
+anthropic
+requests
+google-genai
+streamlit
