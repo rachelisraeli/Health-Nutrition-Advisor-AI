@@ -23,17 +23,17 @@ Ensure you have Python 3.9+ installed on your machine.
 ### 2. Installation & Setup
 bash
 
-# Clone the repository
+### Clone the repository
 git clone [https://github.com/BrachaBa/Health-Nutrition-Advisor-AI.git](https://github.com/BrachaBa/Health-Nutrition-Advisor-AI.git)
 cd Health-Nutrition-Advisor-AI
 
-# Create a virtual environment
+### Create a virtual environment
 python -m venv .venv
 
-# Activate the environment (Mac/Linux)
+### Activate the environment (Mac/Linux)
 source .venv/bin/activate
-# Activate the environment (Windows)
-# .venv\Scripts\activate
+### Activate the environment (Windows)
+### .venv\Scripts\activate
 
 # Install dependencies
 pip install flask streamlit google-genai python-dotenv requests
